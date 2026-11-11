@@ -7,7 +7,10 @@
 <b>Semester:</b> 5th Semester<br>
 <b>Academic Year:</b> 2026–27
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Lab-blue?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/5th%20Semester-2026--27-green?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 🛠️ LANGUAGES & TECHNOLOGIES
 
 <p align="left">
