@@ -31,7 +31,7 @@ Through these experiments, we explore regression, classification, cross-validati
 🧪 EXPERIMENTS AND ACTIVITIES
 🔹 Activity 1 – Regression and Regularization
 
-File: act1.ipynb
+File: activity_1.ipynb
 
 Ordinary Least Squares (OLS) Regression
 Ridge Regression (L2 Regularization)
@@ -40,7 +40,7 @@ Training, validation and testing
 Mean Squared Error (MSE)
 🔹 Activity 2 – Logistic Regression Classification
 
-File: act2.ipynb
+File: activity_2.ipynb
 
 Dataset loading and preprocessing
 Exploratory Data Analysis
@@ -87,6 +87,8 @@ Lasso Regression
 Training and testing
 Prediction comparison
 Model performance evaluation
+
+
 📂 REPOSITORY STRUCTURE
 text
 ML_Lab_26-27_5th_Sem_4NI24CI115/
