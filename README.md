@@ -89,19 +89,6 @@ Prediction comparison
 Model performance evaluation
 
 
-📂 REPOSITORY STRUCTURE
-text
-ML_Lab_26-27_5th_Sem_4NI24CI115/
-│
-├── act1.ipynb
-├── act2.ipynb
-├── exp1.ipynb
-├── exp2kfold.ipynb
-├── exp3_2deg_poly.ipynb
-├── exp4.ipynb
-│
-└── README.md
-
 🛠️ TECHNOLOGIES AND LIBRARIES USED
 Technology	Purpose
 Python	Programming Language
