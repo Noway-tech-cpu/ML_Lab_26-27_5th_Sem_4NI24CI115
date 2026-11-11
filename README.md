@@ -35,7 +35,9 @@ Through these experiments, we explore regression, classification, cross-validati
     <img src="https://img.shields.io/badge/ACTIVITY_1-act1.ipynb-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
   </a>
 File: act1.ipynb
-
+ <a href="https://github.com/Noway-tech-cpu/ML_Lab_26-27_5th_Sem_4NI24CI115/blob/main/act2.ipynb">
+    <img src="https://img.shields.io/badge/ACTIVITY_2-act2.ipynb-blue?style=for-the-badge&logo=jupyter&logoColor=white" />
+  </a>
 Ordinary Least Squares (OLS) Regression
 Ridge Regression (L2 Regularization)
 Lasso Regression (L1 Regularization)
