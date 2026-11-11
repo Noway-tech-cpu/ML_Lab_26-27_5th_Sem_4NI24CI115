@@ -14,7 +14,6 @@ This repository contains the practical implementations and experiments performed
 
 The main objective is to understand and implement various Machine Learning algorithms and techniques using Python.
 
-
 🧪 Experiments and Activities
 Activity 1 – Regression and Regularization
 
