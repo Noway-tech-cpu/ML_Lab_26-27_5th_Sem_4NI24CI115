@@ -98,7 +98,9 @@ Pandas	Data Manipulation
 Matplotlib	Data Visualization
 Scikit-learn	Machine Learning Algorithms
 Git & GitHub	Version Control
+
 ⚙️ INSTALLATION AND SETUP
+
 1️⃣ Clone the Repository
 bash
 git clone https://github.com/Noway-tech-cpu/ML_Lab_26-27_5th_Sem_4NI24CI115.git
