@@ -14,27 +14,6 @@ This repository contains the practical implementations and experiments performed
 
 The main objective is to understand and implement various Machine Learning algorithms and techniques using Python.
 
-🎯 Objectives
-Understand fundamental concepts of Machine Learning.
-Implement supervised learning algorithms.
-Explore Linear and Polynomial Regression.
-Understand Ridge and Lasso Regression.
-Implement Logistic Regression.
-Apply K-Fold Cross Validation.
-Evaluate machine learning models using performance metrics.
-Visualize and interpret experimental results.
-📂 Repository Structure
-text
-ML_Lab_26-27_5th_Sem_4NI24CI115/
-│
-├── act1.ipynb
-├── act2.ipynb
-├── exp1.ipynb
-├── exp2kfold.ipynb
-├── exp3_2deg_poly.ipynb
-├── exp4.ipynb
-│
-└── README.md
 
 🧪 Experiments and Activities
 Activity 1 – Regression and Regularization
